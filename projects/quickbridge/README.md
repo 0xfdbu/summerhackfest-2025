@@ -151,7 +151,7 @@ Your application should now be running at `http://localhost:5173`
 - **URL**: [https://meson-integration.vercel.app/](https://meson-integration.vercel.app/)
 - **Test Account**: Use testnet USDC on Base; no credentials needed
 ### Demo Video
-- **YouTube**: [https://youtube.com/watch?v=demo-meson-bridge](https://youtube.com/watch?v=demo-meson-bridge)
+- **YouTube**: https://www.youtube.com/watch?v=m6sMO_Ym7ao
 - **Duration**: [2 minutes]
 ## 🔒 Security
 ### Security Measures
@@ -209,10 +209,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Team Contact
 - **Discord**: [syv_dev]
 - **GitHub**: [Team Lead Profile](https://github.com/0xfdbu)
-### Project Links
-- **GitHub**: [https://github.com/0xfdbu/summerhackfest-2025/tree/main/projects/quickbridge](https://github.com/0xfdbu/summerhackfest-2025/tree/main/projects/quickbridge)
-- **Demo**: [https://meson-integration.vercel.app/](https://meson-integration.vercel.app/)
-- **Documentation**: [https://docs.meson-conflux-bridge.com](https://docs.meson-conflux-bridge.com)
+
 ### Support
 - **Issues**: [GitHub Issues](https://github.com/0xfdbu/summerhackfest-2025/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/0xfdbu/summerhackfest-2025/discussions)
