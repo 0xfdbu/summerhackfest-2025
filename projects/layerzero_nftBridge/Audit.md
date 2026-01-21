@@ -6,9 +6,9 @@ This document provides a technical overview and audit guide for the contracts in
 
 ## Contracts to Audit
 
-- [`DynamicONFTBridge.sol`](./contracts/DynamicONFTBridge.sol)
-- [`FactoryNftCollectionsMint.sol`](./contracts/FactoryNftCollectionsMint.sol)
-- [`WrappedONFT.sol`](./contracts/WrappedONFT.sol)
+- [`DynamicONFTBridge.sol`](./contracts/contracts/DynamicONFTBridge.sol)
+- [`FactoryNftCollectionsMint.sol`](./contracts/contracts/FactoryNftCollectionsMint.sol)
+- [`WrappedONFT.sol`](./contracts/contracts/WrappedONFT.sol)
 
 ---
 
@@ -105,9 +105,9 @@ Per-collection wrapped ERC721 contract, deployed as a minimal proxy. Allows brid
 
 ## References
 
-- [DynamicONFTBridge.sol](./contracts/DynamicONFTBridge.sol)
-- [FactoryNftCollectionsMint.sol](./contracts/FactoryNftCollectionsMint.sol)
-- [WrappedONFT.sol](./contracts/WrappedONFT.sol)
+- [DynamicONFTBridge.sol](./contracts/contracts/DynamicONFTBridge.sol)
+- [FactoryNftCollectionsMint.sol](./contracts/contracts/FactoryNftCollectionsMint.sol)
+- [WrappedONFT.sol](./contracts/contracts/WrappedONFT.sol)
 - [layerzero_nftBridge/README.md](https://github.com/0xfdbu/summerhackfest-2025/blob/main/projects/layerzero_nftBridge/README.md)
 - Deployed contract addresses and further architecture diagrams available in the [README](https://github.com/0xfdbu/summerhackfest-2025/blob/main/projects/layerzero_nftBridge/README.md).
 
